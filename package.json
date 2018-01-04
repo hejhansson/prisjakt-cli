@@ -1,0 +1,35 @@
+{
+  "name": "prisjakt",
+  "version": "0.0.1",
+  "description": "Prisjakt sok via CLI",
+  "license": "MIT",
+  "repository": "hejhansson/prisjakt",
+  "author": {
+    "name": "Alexander Hansson",
+    "email": "alexander@hnssn.se",
+    "url": "hnssn.se"
+  },
+  "bin": {
+    "prisjakt": "cli.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "files": [
+    "cli.js",
+    "index.js"
+  ],
+  "keywords": [
+    "prisjakt",
+    "cli"
+  ],
+  "dependencies": {
+    "meow": "^3.7.0",
+    "opn": "^5.1.0",
+    "strict-uri-encode": "^2.0.0"
+  },
+  "devDependencies": {}
+}
