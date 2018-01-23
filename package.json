@@ -1,11 +1,11 @@
 {
   "name": "prisjakt-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Prisjakt sok via CLI",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hejhansson/prisjakt.git"
+    "url": "git+https://github.com/hejhansson/prisjakt-cli.git"
   },
   "author": "Alexander Hansson <alexander@hnssn.se> (hnssn.se)",
   "bin": {
@@ -32,8 +32,8 @@
     "strict-uri-encode": "^2.0.0"
   },
   "bugs": {
-    "url": "https://github.com/hejhansson/prisjakt/issues"
+    "url": "https://github.com/hejhansson/prisjakt-cli/issues"
   },
-  "homepage": "https://github.com/hejhansson/prisjakt#readme",
+  "homepage": "https://github.com/hejhansson/prisjakt-cli#readme",
   "main": "index.js"
 }
